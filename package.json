@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-array-nanvariancepn",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Calculate the variance of an array ignoring `NaN` values and using a two-pass algorithm.",
   "license": "Apache-2.0",
   "author": {
@@ -40,7 +40,7 @@
     "@stdlib/array-base-assert-contains": "^0.2.2",
     "@stdlib/array-base-join": "^0.1.1",
     "@stdlib/array-dtype": "^0.3.0",
-    "@stdlib/array-dtypes": "^0.3.0",
+    "@stdlib/array-dtypes": "^0.4.0",
     "@stdlib/assert-is-collection": "^0.2.2",
     "@stdlib/assert-is-number": "^0.2.2",
     "@stdlib/stats-strided-nanvariancepn": "github:stdlib-js/stats-strided-nanvariancepn#main",
@@ -95,7 +95,6 @@
     "standard deviation",
     "array"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
